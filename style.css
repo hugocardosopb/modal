@@ -22,9 +22,8 @@ body{
         border-bottom: 8px solid #1C6EA4;
         border-radius: 0px 0px 40px 0px;
         flex-wrap: wrap;
-        background-color: white;
+        background-color: pink;
         text-align: justify;
-        background-color: pink; !important
     }
     
     .btn {
